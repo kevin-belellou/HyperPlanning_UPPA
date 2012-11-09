@@ -1,0 +1,13 @@
+<?xml version='1.0' ?>
+<Manifest>
+    <Id>a5iognix93</Id>
+    <Secret>3AC84BB6D0D71EAD51A28E3B060FB39F</Secret>
+  <AppVersion>0.0.1</AppVersion>
+  <ManifestVersion>1.2</ManifestVersion>
+  <AppType>C++App</AppType>
+    <Privileges>
+    </Privileges>
+    <DeviceProfile>
+        <APIVersion>2.0</APIVersion>
+    </DeviceProfile>
+</Manifest>

@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<Application>
+    <Entry>HyperPlanning_UPPA</Entry>
+    <Name>
+        <English>HyperPlanning_UPPA</English>
+        <fra-FR>HyperPlanning_UPPA</fra-FR>
+    </Name>
+    <Vendor>gund38</Vendor>
+    <Description/>
+    <Icons>
+        <MainMenu>HyperPlanning_UPPA_type4.png<Type1/>
+            <Type2/>
+            <Type3>HyperPlanning_UPPA_type3.png</Type3>
+            <Type4>HyperPlanning_UPPA_type4.png</Type4>
+            <Type5>HyperPlanning_UPPA_type5.png</Type5>
+        </MainMenu>
+        <Setting/>
+        <Ticker/>
+        <QuickPanel/>
+        <LaunchImage>Splash_type4.png<Type1/>
+            <Type2/>
+            <Type3>Splash_type3.png</Type3>
+            <Type4>Splash_type4.png</Type4>
+            <Type5>Splash_type5.png</Type5>
+        </LaunchImage>
+    </Icons>
+    <AutoScaling>
+        <Enabled>true</Enabled>
+        <BaseResolution>NormalSize</BaseResolution>
+    </AutoScaling>
+</Application>
